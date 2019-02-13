@@ -30,4 +30,4 @@ Please base the design on the provided PSD or PNG.
 
 ### Extra Credit
 
-* Plot the events on a map (Google Maps/Leaflet)
+* Plot the events on a map (Google Maps/Leaflet) 
