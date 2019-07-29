@@ -1,3 +1,8 @@
+### Project summary: 
+
+Project completed part of an assesment with 3ddigital using HTML, CSS, bootstrap and PHP web technology. 
+
+
 ### Install Docker
 
 https://docs.docker.com/engine/installation/
